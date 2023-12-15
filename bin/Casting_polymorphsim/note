@@ -1,0 +1,3 @@
+Upcasting is declaring an objecto of the parent and initialzing any of the child classes
+
+Downcasting declaring an object of a child and initialzing the parent c
